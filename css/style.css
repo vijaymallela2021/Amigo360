@@ -1973,7 +1973,7 @@ body .btn-eight:hover {
   transition: all 0.3s ease-in-out;
 }
 .block-style-four:hover {background: #fcfdff;}
-.block-style-four .icon {height: 52px;}
+.block-style-four .icon {height: 90px;}
 .block-style-four .icon img {max-height: 100%;}
 .block-style-four h5 {
   font-family: 'gorditamedium';
